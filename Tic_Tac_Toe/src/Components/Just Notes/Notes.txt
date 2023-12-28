@@ -1,0 +1,14 @@
+[SET -1]
+White - #F5F5F5
+Yellow - #F99417
+Light_Purple - #4D4C7D
+Dark_Purple - #363062
+
+[SET-2]
+White - #F5F7F8
+Yellow - #F4CE14
+Light - #495E57
+Dark - #45474B
+
+[SET-3]
+https://colorhunt.co/palette/6f61c0a084e88be8e5d5ffe4
