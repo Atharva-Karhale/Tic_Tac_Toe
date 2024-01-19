@@ -33,8 +33,8 @@ function Grid({ numberOfCards }) {
             {
                 winner && (
                     <>
-                        <h1 className=""> Winner is {winner} </h1>
-                        <button className="reset" onClick={reset}> Reset Game </button>
+                        <h1 className=" bg-[#F2921D] p-2 rounded-lg border-4 border-[#F2CD5C] font-black text-white text-xl "> Winner is " <span className="text-gray-600 text-2xl">{winner}</span> "</h1>
+                        <button className="reset  bg-[#A084E8] px-[0.4em] py-3 rounded-xl border-4 border-[#6F61C0] text-white font-extrabold hover:text-[#D5FFE4] hover:border-[#8BE8E5]" onClick={reset}> Reset Game </button>
                     </>
                 )
             }
